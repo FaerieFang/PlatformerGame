@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControl.js">
     <Files>
-      <File FileName="Assets\Scripts\PlayerControl.js" Line="28" Column="51" />
+      <File FileName="Assets\Scripts\PlayerControl.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\StaticSpikes.js" Line="17" Column="3" />
       <File FileName="Assets\Scripts\enemyScript.js" Line="12" Column="1" />
     </Files>
