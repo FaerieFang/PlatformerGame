@@ -3,4 +3,4 @@ Minor Platforming game project
 
 
 Current Known Bugs:
-  You can jump in mid-air under some cercumstances (if you leave a platform without jumping)
+You can not jump under some cercomstances (Merge all walls to fix)
