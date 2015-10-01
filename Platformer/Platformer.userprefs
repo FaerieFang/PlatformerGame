@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControl.js">
     <Files>
-      <File FileName="Assets\Scripts\PlayerControl.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\StaticSpikes.js" Line="17" Column="3" />
-      <File FileName="Assets\Scripts\enemyScript.js" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControl.js" Line="25" Column="3" />
+      <File FileName="Assets\Scripts\StaticSpikes.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\enemyScript.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
