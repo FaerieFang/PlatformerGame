@@ -1,11 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControl.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="U:\Pokemon-Showdown\app.js">
     <Files>
-      <File FileName="Assets\Scripts\spinScript.js" Line="6" Column="48" />
-      <File FileName="Assets\Scripts\PlayerControl.js" Line="65" Column="3" />
       <File FileName="Assets\Scripts\StaticSpikes.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\enemyScript.js" Line="1" Column="1" />
+      <File FileName="U:\Pokemon-Showdown\app.js" Line="354" Column="4" />
+      <File FileName="U:\Pokemon-Showdown\loginserver.js" Line="151" Column="56" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
